@@ -1,0 +1,16 @@
+.not{
+    display: block;
+    padding:8rem;
+    text-align: center;
+}
+.number{
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+.content{
+    font-size: 1.3rem;
+    padding: 1rem;
+}
+.page{
+    font-size: 4rem;
+}
